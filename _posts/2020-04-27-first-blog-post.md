@@ -1,1 +1,4 @@
-Here is the first blog post
+---
+title: "Yfirst blog post"
+date: 2020-04-27
+---
